@@ -5,7 +5,12 @@
     margin: 0;
     box-sizing: border-box;
 }
-
+h1{
+   color : black;
+   font-size: 20px;
+font-weight:bold;
+    font-family: 'New Tegomin', serif;
+}
 .body {
     background: url("../img/bg.jpg"); 
     min-height: 100vh;
